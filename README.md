@@ -268,10 +268,11 @@ streamlit run app.py
 ---
 
 # Streamlit Deployment
+# Live Demo
 
-Live App:
+🌐 **Streamlit Application:** https://your-app-name.streamlit.app
 
-(Add your Streamlit URL here after deployment)
+📂 **GitHub Repository:** https://github.com/hannyrangera/SalesForecasting_Hanny_Rangera
 
 ---
 
