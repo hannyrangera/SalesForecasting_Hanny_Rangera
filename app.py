@@ -147,7 +147,7 @@ if page == "Sales Overview":
 
         filtered_df
 
-        .groupby(pd.Grouper(key="Order Date", freq="M"))["Sales"]
+        .groupby(pd.Grouper(key="Order Date", freq="ME"))["Sales"]
 
         .sum()
 
